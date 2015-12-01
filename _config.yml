@@ -1,0 +1,28 @@
+name: Ibexplore
+favicon: null
+layout_spectrum: 0.305526016978547
+typography_spectrum: 0.714518851833418
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.2908956124447286
+  lightness: 0.6971578078810126
+  saturation: 0.9852862362749875
+  rhythmicContrast: 0.12935064500197768
+purpose: []
